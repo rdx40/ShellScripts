@@ -9,5 +9,4 @@ Some shell scripts partailly cause I'm bored and partailly cause I wan kinda int
 5. dir_size.sh --> States the storage consumed by each file and folder in directory
 6. quick_notes.sh --> Jot down notes for when you might forget later with a timestamp(creates a .txt file)
 7. todo.sh --> To Do list with option to list, add and remove task (again creates a .txt file)
-8. audio_extract --> Extracts audio from video using ffmpeg
-9. ffmpeg_switch_case --> A menu based ffmpeg tool usage
+8. ffmpeg_switch_case --> A menu based ffmpeg tool usage
