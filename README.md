@@ -12,3 +12,4 @@ Some shell scripts partailly cause I'm bored and partailly cause I wan kinda int
 8. ffmpeg_switch_case --> A menu based ffmpeg tool usage
 9. Git Helper --> just a mwnu based basic git operations
 10. unarch --> Recursively unzip all archives in a folder
+11. server.sh --> Restarts the server if the Flask application crashes
