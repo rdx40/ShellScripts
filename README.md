@@ -13,3 +13,4 @@ Some shell scripts partailly cause I'm bored and partailly cause I wan kinda int
 9. Git Helper --> just a mwnu based basic git operations
 10. unarch --> Recursively unzip all archives in a folder
 11. server.sh --> Restarts the server if the Flask application crashes
+12. kill.sh --> Kills all process and instances of enetered process cleanly
